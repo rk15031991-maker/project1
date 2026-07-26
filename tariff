@@ -7,4 +7,5 @@ Only in the transaction screen it will come
 The tariff can be defined by the service wise
 We can add the tariff manually while creating the invoice and purchase
 we can restrict the tariff by service wise
-We are planning to implement the tariff for other modules
+We are planning to implement the tariff for other module
+In the IFF we have service wise posting
