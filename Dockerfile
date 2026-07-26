@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY . /app
 
-CMD ["sh"]
+CMD ["/bin/bash"]
